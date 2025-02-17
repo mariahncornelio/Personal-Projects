@@ -12,3 +12,8 @@ This repository contains personal projects aimed at enhancing my coding skills. 
 
 ## Math
 - <b>Find Your Weight on Other Planets of the Solar System</b> - Jupyter Notebook / I made a calculator that takes your weight in lbs or kg as input and outputs your weight on other planets
+
+## Projects
+- <b>Coral Reef Bleaching</b> - Jupyter Notebook / In this project, I analyze and visualize coral bleaching events around the world.
+- <b>Pokemon Stat Clustering</b> - Jupyter Notebook / In this project, I analyze and use K-Means clustering and different machine learning algorithms to see which Pokémon are the most similar based on their attributes.
+
